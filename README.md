@@ -1,0 +1,1 @@
+# Automação de Envio de OnePages por E-mail com Python
